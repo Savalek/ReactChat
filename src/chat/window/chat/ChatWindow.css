@@ -1,0 +1,10 @@
+.chat-window {
+    background-color: rgba(0, 241, 255, 0.07);
+    width: 60%;
+    max-width: 550px;
+    height: 80vh;
+    margin: 0 auto;
+    border: 1px solid rgba(128, 128, 128, 0.51);
+    border-radius: 10px;
+    overflow: auto;
+}

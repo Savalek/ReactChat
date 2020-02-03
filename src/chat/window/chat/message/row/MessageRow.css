@@ -1,0 +1,4 @@
+.chat-message-row {
+    display: block;
+    overflow: auto;
+}

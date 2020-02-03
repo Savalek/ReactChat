@@ -1,0 +1,31 @@
+.chat-auth-window {
+    width: 250px;
+    height: 300px;
+    background-color: rgba(127, 255, 0, 0.15);
+    border: solid 1px rgba(0, 0, 0, 0.08);
+    border-radius: 15px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.39);
+    padding: 10px;
+}
+
+.chat-auth-window-button-group button {
+    margin: 5px;
+    width: 45%;
+}
+
+.chat-auth-window {
+    width: 250px;
+    height: 300px;
+    background-color: rgba(127, 255, 0, 0.15);
+    border: solid 1px rgba(0, 0, 0, 0.08);
+    border-radius: 15px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.39);
+    padding: 10px;
+}
+
+.centered {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
