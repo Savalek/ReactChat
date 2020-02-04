@@ -1,5 +1,5 @@
-// const BASIC_URL = `http://${window.location.host}`;
-const BASIC_URL = 'http://localhost:7000';
+const BASIC_URL = `http://${window.location.host}`;
+// const BASIC_URL = 'http://localhost:7000';
 
 async function smartFetch(url, params) {
     let response = await fetch(url, params);
