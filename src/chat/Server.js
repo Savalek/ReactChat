@@ -12,7 +12,6 @@ async function smartFetch(url, params) {
 
 class ServerClass {
     users = {};
-
     constructor() {
         this.getUserById = this.getUserById.bind(this);
         this.loadUserInfo = this.loadUserInfo.bind(this);
