@@ -1,4 +1,4 @@
-// const BASIC_URL = `http://${window.location.host}`;1234
+// const BASIC_URL = `http://${window.location.host}`;1213123123
 const BASIC_URL = 'http://localhost:7000';
 
 async function smartFetch(url, params) {

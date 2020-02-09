@@ -1,9 +1,192 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="74f3d61c-83ba-421c-ae6b-51ddaad8fcd5" name="Default Changelist" comment="test">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="SOFT" />
+  </component>
   <component name="ProjectId" id="1XJA1FV6UmsjXAOz5niIXoZlqnr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.tabs" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/chat/window/chat/message/row" />
+      <recent name="$PROJECT_DIR$/src/chat/window/chat/message" />
+      <recent name="$PROJECT_DIR$/src/chat/window/chat" />
+      <recent name="$PROJECT_DIR$/src/chat/window/auth/signup" />
+      <recent name="$PROJECT_DIR$/src/chat/window/auth/login" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.npm start">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="74f3d61c-83ba-421c-ae6b-51ddaad8fcd5" name="Default Changelist" comment="" />
+      <created>1580753606824</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580753606824</updated>
+      <workItem from="1580753608735" duration="3851000" />
+      <workItem from="1580835418487" duration="2076000" />
+      <workItem from="1581011074850" duration="1750000" />
+      <workItem from="1581259172733" duration="233000" />
+    </task>
+    <task id="LOCAL-00001" summary="add ReactChat classes">
+      <created>1580757367631</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1580757367631</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add ReactChat classes">
+      <created>1580835783925</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1580835783925</updated>
+    </task>
+    <task id="LOCAL-00003" summary="fix url for prod">
+      <created>1580839748693</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1580839748693</updated>
+    </task>
+    <task id="LOCAL-00004" summary="test">
+      <created>1581011894211</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1581011894211</updated>
+    </task>
+    <task id="LOCAL-00005" summary="test">
+      <created>1581011940902</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1581011940902</updated>
+    </task>
+    <task id="LOCAL-00006" summary="test">
+      <created>1581012628732</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1581012628732</updated>
+    </task>
+    <task id="LOCAL-00007" summary="test">
+      <created>1581012866916</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1581012866916</updated>
+    </task>
+    <task id="LOCAL-00008" summary="test">
+      <created>1581259194145</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1581259194145</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add ReactChat classes" />
+    <MESSAGE value="fix url for prod" />
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="360" y="357" width="592" height="390" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1580755026492">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="360" y="357" width="592" height="390" key="#com.intellij.fileTypes.FileTypeChooser/67.27.1853.1053@67.27.1853.1053" timestamp="1580755026492" />
+    <state x="337" y="301" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1580756430038">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="337" y="301" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1580756430038" />
+    <state x="558" y="149" width="860" height="807" key="CommitChangelistDialog2" timestamp="1581259193897">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="558" y="149" width="860" height="807" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1581259193897" />
+    <state x="167" y="125" width="1653" height="855" key="DiffContextDialog" timestamp="1581011954847">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="167" y="125" width="1653" height="855" key="DiffContextDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1581011954847" />
+    <state x="150" y="187" key="SettingsEditor" timestamp="1580755072873">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="150" y="187" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1580755072873" />
+    <state x="588" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1581259199100">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="588" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1581259199100" />
+    <state x="195" y="149" width="704" height="807" key="find.popup" timestamp="1580835615571">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="195" y="149" width="704" height="807" key="find.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1580835615571" />
   </component>
 </project>
