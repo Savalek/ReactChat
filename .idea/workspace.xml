@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="74f3d61c-83ba-421c-ae6b-51ddaad8fcd5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chat/Server.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/chat/Server.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chat.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chat.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,7 +32,9 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -78,6 +81,7 @@
       <workItem from="1580835418487" duration="2076000" />
       <workItem from="1581011074850" duration="1750000" />
       <workItem from="1581259172733" duration="646000" />
+      <workItem from="1581663278352" duration="577000" />
     </task>
     <task id="LOCAL-00001" summary="add ReactChat classes">
       <created>1580757367631</created>
@@ -142,7 +146,14 @@
       <option name="project" value="LOCAL" />
       <updated>1581259601924</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="add googlemaps">
+      <created>1581663512059</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1581663512059</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -165,7 +176,8 @@
     <MESSAGE value="add ReactChat classes" />
     <MESSAGE value="fix url for prod" />
     <MESSAGE value="test" />
-    <option name="LAST_COMMIT_MESSAGE" value="test" />
+    <MESSAGE value="add googlemaps" />
+    <option name="LAST_COMMIT_MESSAGE" value="add googlemaps" />
   </component>
   <component name="WindowStateProjectService">
     <state x="360" y="357" width="592" height="390" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1580755026492">
@@ -176,21 +188,39 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="337" y="301" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1580756430038" />
-    <state x="558" y="149" width="860" height="807" key="CommitChangelistDialog2" timestamp="1581259601796">
-      <screen x="67" y="27" width="1853" height="1053" />
+    <state x="509" y="163" width="860" height="807" key="CommitChangelistDialog2" timestamp="1581663511931">
+      <screen x="0" y="27" width="1920" height="1173" />
     </state>
+    <state x="509" y="163" key="CommitChangelistDialog2/1920.0.1920.1200/0.27.1920.1173@0.27.1920.1173" timestamp="1581663511931" />
     <state x="558" y="149" width="860" height="807" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1581259601796" />
     <state x="167" y="125" width="1653" height="855" key="DiffContextDialog" timestamp="1581011954847">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="167" y="125" width="1653" height="855" key="DiffContextDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1581011954847" />
+    <state width="1897" height="327" key="GridCell.Tab.0.bottom" timestamp="1581663449564">
+      <screen x="0" y="27" width="1920" height="1173" />
+    </state>
+    <state width="1897" height="327" key="GridCell.Tab.0.bottom/1920.0.1920.1200/0.27.1920.1173@0.27.1920.1173" timestamp="1581663449564" />
+    <state width="1897" height="327" key="GridCell.Tab.0.center" timestamp="1581663449564">
+      <screen x="0" y="27" width="1920" height="1173" />
+    </state>
+    <state width="1897" height="327" key="GridCell.Tab.0.center/1920.0.1920.1200/0.27.1920.1173@0.27.1920.1173" timestamp="1581663449564" />
+    <state width="1897" height="327" key="GridCell.Tab.0.left" timestamp="1581663449564">
+      <screen x="0" y="27" width="1920" height="1173" />
+    </state>
+    <state width="1897" height="327" key="GridCell.Tab.0.left/1920.0.1920.1200/0.27.1920.1173@0.27.1920.1173" timestamp="1581663449564" />
+    <state width="1897" height="327" key="GridCell.Tab.0.right" timestamp="1581663449564">
+      <screen x="0" y="27" width="1920" height="1173" />
+    </state>
+    <state width="1897" height="327" key="GridCell.Tab.0.right/1920.0.1920.1200/0.27.1920.1173@0.27.1920.1173" timestamp="1581663449564" />
     <state x="150" y="187" key="SettingsEditor" timestamp="1580755072873">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="150" y="187" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1580755072873" />
-    <state x="588" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1581259615249">
-      <screen x="67" y="27" width="1853" height="1053" />
+    <state x="540" y="318" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1581663514724">
+      <screen x="0" y="27" width="1920" height="1173" />
     </state>
+    <state x="540" y="318" key="Vcs.Push.Dialog.v2/1920.0.1920.1200/0.27.1920.1173@0.27.1920.1173" timestamp="1581663514724" />
     <state x="588" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1581259615249" />
     <state x="195" y="149" width="704" height="807" key="find.popup" timestamp="1580835615571">
       <screen x="67" y="27" width="1853" height="1053" />
